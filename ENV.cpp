@@ -183,7 +183,7 @@ int main() {
         if (count != -1)
             count--;
         if (!congsuatsanxuat.empty() && count == -1){
-            if (sum < 0.2 * congsuatsanxuat[congsuatsanxuat.size()-1] || sum > 1.2 * congsuatsanxuat[congsuatsanxuat.size()-1]){
+            if (sum < 0.8 * congsuatsanxuat[congsuatsanxuat.size()-1] || sum > 1.2 * congsuatsanxuat[congsuatsanxuat.size()-1]){
                 count = 2;
             }
         }
