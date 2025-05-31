@@ -1,3 +1,4 @@
+//https://www.hackerrank.com/contests/de-thi-thuc-hanh/challenges/mang-dien/problem
 #include <cmath>
 #include <cstdio>
 #include <vector>
