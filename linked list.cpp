@@ -76,6 +76,7 @@ void link2Lists(myList &a, myList &b){
     if (a.head == nullptr){
         a.head = b.head;
         a.tail = b.tail;
+        return;
     }
     if (b.head == nullptr)
         return;
@@ -124,6 +125,37 @@ void reverseList(myList &a){
     }
 }
 
+
+void printRV(myList a){
+    if (a.head == nullptr) return;
+    Node* p = a.head;
+    a.head = a.head->next;
+
+    printRV(a);
+
+    cout << p->info << " ";
+}
+
+
+void slsort(myList &a){
+    if (a.head == nullptr) return;
+    Node* p = a.head;
+    while(p){
+        Node* minn = p;
+        Node* movee = p->next;
+        while(movee){
+            if (minn->info > movee->info)
+                minn = movee;
+            movee = movee->next;
+        }
+        swap(p->info,minn->info);
+        p = p->next;
+    }
+}
+
+
+
+
 int main(){
     myList a;
     creatList(a);
@@ -134,11 +166,8 @@ int main(){
     addTail(a,creatNode(4));
     addTail(a,creatNode(7));
     printList(a);
-    quickSortLinkedList(a);
+    slsort(a);
     cout << endl;
-    printList(a);
-    cout << endl;
-    reverseList(a);
     printList(a);
     return 0;
 }
