@@ -1,22 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mammu\\Desktop\\New folder\\weird-things\\New folder\\OnTapLTTQ\\",
+  "WorkspaceRootPath": "C:\\Users\\mammu\\Desktop\\New folder\\weird-things\\LTTQ\\OnTapLTTQ\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB17FDEC-0E1D-4571-9337-BECC4DE05CB5}|OnTapLTTQ.csproj|c:\\users\\mammu\\desktop\\new folder\\weird-things\\new folder\\ontaplttq\\lab3_bai8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FB17FDEC-0E1D-4571-9337-BECC4DE05CB5}|OnTapLTTQ.csproj|solutionrelative:lab3_bai8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB17FDEC-0E1D-4571-9337-BECC4DE05CB5}|OnTapLTTQ.csproj|c:\\users\\mammu\\desktop\\new folder\\weird-things\\new folder\\ontaplttq\\lab3_bai8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB17FDEC-0E1D-4571-9337-BECC4DE05CB5}|OnTapLTTQ.csproj|solutionrelative:lab3_bai8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB17FDEC-0E1D-4571-9337-BECC4DE05CB5}|OnTapLTTQ.csproj|c:\\users\\mammu\\desktop\\new folder\\weird-things\\new folder\\ontaplttq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB17FDEC-0E1D-4571-9337-BECC4DE05CB5}|OnTapLTTQ.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FB17FDEC-0E1D-4571-9337-BECC4DE05CB5}|OnTapLTTQ.csproj|C:\\Users\\mammu\\Desktop\\New folder\\weird-things\\New folder\\OnTapLTTQ\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{FB17FDEC-0E1D-4571-9337-BECC4DE05CB5}|OnTapLTTQ.csproj|C:\\Users\\mammu\\Desktop\\New folder\\weird-things\\LTTQ\\OnTapLTTQ\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{FB17FDEC-0E1D-4571-9337-BECC4DE05CB5}|OnTapLTTQ.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB17FDEC-0E1D-4571-9337-BECC4DE05CB5}|OnTapLTTQ.csproj|c:\\users\\mammu\\desktop\\new folder\\weird-things\\lttq\\ontaplttq\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB17FDEC-0E1D-4571-9337-BECC4DE05CB5}|OnTapLTTQ.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,48 +23,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Lab3_Bai8.cs",
-              "DocumentMoniker": "C:\\Users\\mammu\\Desktop\\New folder\\weird-things\\New folder\\OnTapLTTQ\\Lab3_Bai8.cs",
-              "RelativeDocumentMoniker": "Lab3_Bai8.cs",
-              "ToolTip": "C:\\Users\\mammu\\Desktop\\New folder\\weird-things\\New folder\\OnTapLTTQ\\Lab3_Bai8.cs",
-              "RelativeToolTip": "Lab3_Bai8.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAjwDQAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T09:22:40.176Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Lab3_Bai8.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\mammu\\Desktop\\New folder\\weird-things\\New folder\\OnTapLTTQ\\Lab3_Bai8.cs",
-              "RelativeDocumentMoniker": "Lab3_Bai8.cs",
-              "ToolTip": "C:\\Users\\mammu\\Desktop\\New folder\\weird-things\\New folder\\OnTapLTTQ\\Lab3_Bai8.cs [Design]",
-              "RelativeToolTip": "Lab3_Bai8.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-17T09:20:46.929Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\mammu\\Desktop\\New folder\\weird-things\\New folder\\OnTapLTTQ\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mammu\\Desktop\\New folder\\weird-things\\LTTQ\\OnTapLTTQ\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\mammu\\Desktop\\New folder\\weird-things\\New folder\\OnTapLTTQ\\Form1.cs",
+              "ToolTip": "C:\\Users\\mammu\\Desktop\\New folder\\weird-things\\LTTQ\\OnTapLTTQ\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAYwDQAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-17T07:17:26.221Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\mammu\\Desktop\\New folder\\weird-things\\New folder\\OnTapLTTQ\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mammu\\Desktop\\New folder\\weird-things\\LTTQ\\OnTapLTTQ\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\mammu\\Desktop\\New folder\\weird-things\\New folder\\OnTapLTTQ\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\mammu\\Desktop\\New folder\\weird-things\\LTTQ\\OnTapLTTQ\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-17T07:13:30.727Z",

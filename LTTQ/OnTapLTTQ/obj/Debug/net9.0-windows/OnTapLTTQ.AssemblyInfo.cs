@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OnTapLTTQ")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b61839e7ee67defc2c250afa685e6fc5d5d4fab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68e950e228777fa8e254c1bf2c7d57cfb8078e5a")]
 [assembly: System.Reflection.AssemblyProductAttribute("OnTapLTTQ")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OnTapLTTQ")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -23,3 +23,31 @@ C:\Users\mammu\Desktop\New folder\weird-things\New folder\OnTapLTTQ\obj\Debug\ne
 C:\Users\mammu\Desktop\New folder\weird-things\New folder\OnTapLTTQ\obj\Debug\net9.0-windows\OnTapLTTQ.Lab3_Bai5.resources
 C:\Users\mammu\Desktop\New folder\weird-things\New folder\OnTapLTTQ\obj\Debug\net9.0-windows\OnTapLTTQ.Lab3_Bai7.resources
 C:\Users\mammu\Desktop\New folder\weird-things\New folder\OnTapLTTQ\obj\Debug\net9.0-windows\OnTapLTTQ.Lab3_Bai8.resources
+C:\Users\mammu\Desktop\New folder\weird-things\LTTQ\OnTapLTTQ\bin\Debug\net9.0-windows\OnTapLTTQ.exe
+C:\Users\mammu\Desktop\New folder\weird-things\LTTQ\OnTapLTTQ\bin\Debug\net9.0-windows\OnTapLTTQ.deps.json
+C:\Users\mammu\Desktop\New folder\weird-things\LTTQ\OnTapLTTQ\bin\Debug\net9.0-windows\OnTapLTTQ.runtimeconfig.json
+C:\Users\mammu\Desktop\New folder\weird-things\LTTQ\OnTapLTTQ\bin\Debug\net9.0-windows\OnTapLTTQ.dll
+C:\Users\mammu\Desktop\New folder\weird-things\LTTQ\OnTapLTTQ\bin\Debug\net9.0-windows\OnTapLTTQ.pdb
+C:\Users\mammu\Desktop\New folder\weird-things\LTTQ\OnTapLTTQ\obj\Debug\net9.0-windows\OnTapLTTQ.Form1.resources
+C:\Users\mammu\Desktop\New folder\weird-things\LTTQ\OnTapLTTQ\obj\Debug\net9.0-windows\OnTapLTTQ.Lab3_Bai1.resources
+C:\Users\mammu\Desktop\New folder\weird-things\LTTQ\OnTapLTTQ\obj\Debug\net9.0-windows\OnTapLTTQ.Lab3_Bai2.resources
+C:\Users\mammu\Desktop\New folder\weird-things\LTTQ\OnTapLTTQ\obj\Debug\net9.0-windows\OnTapLTTQ.Lab3_Bai3.resources
+C:\Users\mammu\Desktop\New folder\weird-things\LTTQ\OnTapLTTQ\obj\Debug\net9.0-windows\OnTapLTTQ.Lab3_Bai4.resources
+C:\Users\mammu\Desktop\New folder\weird-things\LTTQ\OnTapLTTQ\obj\Debug\net9.0-windows\OnTapLTTQ.Lab3_Bai5.resources
+C:\Users\mammu\Desktop\New folder\weird-things\LTTQ\OnTapLTTQ\obj\Debug\net9.0-windows\OnTapLTTQ.Lab3_Bai7.resources
+C:\Users\mammu\Desktop\New folder\weird-things\LTTQ\OnTapLTTQ\obj\Debug\net9.0-windows\OnTapLTTQ.Lab3_Bai8.resources
+C:\Users\mammu\Desktop\New folder\weird-things\LTTQ\OnTapLTTQ\obj\Debug\net9.0-windows\OnTapLTTQ.subform.resources
+C:\Users\mammu\Desktop\New folder\weird-things\LTTQ\OnTapLTTQ\obj\Debug\net9.0-windows\OnTapLTTQ.csproj.GenerateResource.cache
+C:\Users\mammu\Desktop\New folder\weird-things\LTTQ\OnTapLTTQ\obj\Debug\net9.0-windows\OnTapLTTQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mammu\Desktop\New folder\weird-things\LTTQ\OnTapLTTQ\obj\Debug\net9.0-windows\OnTapLTTQ.AssemblyInfoInputs.cache
+C:\Users\mammu\Desktop\New folder\weird-things\LTTQ\OnTapLTTQ\obj\Debug\net9.0-windows\OnTapLTTQ.AssemblyInfo.cs
+C:\Users\mammu\Desktop\New folder\weird-things\LTTQ\OnTapLTTQ\obj\Debug\net9.0-windows\OnTapLTTQ.csproj.CoreCompileInputs.cache
+C:\Users\mammu\Desktop\New folder\weird-things\LTTQ\OnTapLTTQ\obj\Debug\net9.0-windows\OnTapLTTQ.sourcelink.json
+C:\Users\mammu\Desktop\New folder\weird-things\LTTQ\OnTapLTTQ\obj\Debug\net9.0-windows\OnTapLTTQ.dll
+C:\Users\mammu\Desktop\New folder\weird-things\LTTQ\OnTapLTTQ\obj\Debug\net9.0-windows\refint\OnTapLTTQ.dll
+C:\Users\mammu\Desktop\New folder\weird-things\LTTQ\OnTapLTTQ\obj\Debug\net9.0-windows\OnTapLTTQ.pdb
+C:\Users\mammu\Desktop\New folder\weird-things\LTTQ\OnTapLTTQ\obj\Debug\net9.0-windows\OnTapLTTQ.genruntimeconfig.cache
+C:\Users\mammu\Desktop\New folder\weird-things\LTTQ\OnTapLTTQ\obj\Debug\net9.0-windows\ref\OnTapLTTQ.dll
+C:\Users\mammu\Desktop\New folder\weird-things\LTTQ\OnTapLTTQ\obj\Debug\net9.0-windows\OnTapLTTQ.Lab3_Bai9.resources
+C:\Users\mammu\Desktop\New folder\weird-things\LTTQ\OnTapLTTQ\obj\Debug\net9.0-windows\OnTapLTTQ.g.resources
+C:\Users\mammu\Desktop\New folder\weird-things\LTTQ\OnTapLTTQ\obj\Debug\net9.0-windows\OnTapLTTQ.Properties.Resources.resources

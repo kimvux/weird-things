@@ -39,7 +39,7 @@ namespace OnTapLTTQ
 
         private void button6_Click(object sender, EventArgs e)
         {
-
+            MessageBox.Show("Dài quá");
         }
 
         private void button7_Click(object sender, EventArgs e)
@@ -56,7 +56,8 @@ namespace OnTapLTTQ
 
         private void button9_Click(object sender, EventArgs e)
         {
-
+            Lab3_Bai9 open = new Lab3_Bai9();
+            open.Show();
         }
     }
 }
