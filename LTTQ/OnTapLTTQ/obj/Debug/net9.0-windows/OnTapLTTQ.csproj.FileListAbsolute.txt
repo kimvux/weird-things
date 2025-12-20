@@ -60,3 +60,5 @@ C:\Users\mammu\Desktop\New folder\weird-things\LTTQ\OnTapLTTQ\obj\Debug\net9.0-w
 C:\Users\mammu\Desktop\New folder\weird-things\LTTQ\OnTapLTTQ\obj\Debug\net9.0-windows\OnTapLTTQ.csproj.ResolveComReference.cache
 C:\Users\mammu\Desktop\New folder\weird-things\LTTQ\OnTapLTTQ\obj\Debug\net9.0-windows\OnTapLTTQ.Lab4_Bai3.resources
 C:\Users\mammu\Desktop\New folder\weird-things\LTTQ\OnTapLTTQ\obj\Debug\net9.0-windows\OnTapLTTQ.Lab4_Bai4.resources
+C:\Users\mammu\Desktop\New folder\weird-things\LTTQ\OnTapLTTQ\obj\Debug\net9.0-windows\OnTapLTTQ.Lab4_Bai5.resources
+C:\Users\mammu\Desktop\New folder\weird-things\LTTQ\OnTapLTTQ\obj\Debug\net9.0-windows\OnTapLTTQ.subformBai5.resources

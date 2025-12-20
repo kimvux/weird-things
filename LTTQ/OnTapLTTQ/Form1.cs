@@ -86,7 +86,8 @@ namespace OnTapLTTQ
 
         private void button14_Click(object sender, EventArgs e)
         {
-
+            Lab4_Bai5 open = new Lab4_Bai5();
+            open.Show();
         }
 
         private void button15_Click(object sender, EventArgs e)

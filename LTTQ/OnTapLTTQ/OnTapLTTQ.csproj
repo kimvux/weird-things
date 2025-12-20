@@ -10,6 +10,12 @@
 
   <ItemGroup>
     <None Remove="1306039256178303621.jpg" />
+    <None Remove="Icons\icons8-bold-64.png" />
+    <None Remove="Icons\icons8-italic-60.png" />
+    <None Remove="Icons\icons8-new-file-50.png" />
+    <None Remove="Icons\icons8-open-file-50.png" />
+    <None Remove="Icons\icons8-save-50.png" />
+    <None Remove="Icons\icons8-underline-48.png" />
     <None Remove="image.png" />
   </ItemGroup>
 
@@ -35,6 +41,12 @@
 
   <ItemGroup>
     <Resource Include="1306039256178303621.jpg" />
+    <Resource Include="Icons\icons8-bold-64.png" />
+    <Resource Include="Icons\icons8-italic-60.png" />
+    <Resource Include="Icons\icons8-new-file-50.png" />
+    <Resource Include="Icons\icons8-open-file-50.png" />
+    <Resource Include="Icons\icons8-save-50.png" />
+    <Resource Include="Icons\icons8-underline-48.png" />
   </ItemGroup>
 
   <ItemGroup>
