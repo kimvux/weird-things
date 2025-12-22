@@ -40,6 +40,24 @@
     <Compile Update="Lab4_Bai5.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Lab5_Bai1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Lab5_Bai2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Lab5_Bai3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Lab5_Bai4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Lab5_Bai6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Lab5_Bai8.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="subform.cs">
       <SubType>Form</SubType>
     </Compile>

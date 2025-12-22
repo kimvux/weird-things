@@ -1,4 +1,4 @@
-namespace OnTapLTTQ
+﻿namespace OnTapLTTQ
 {
     public partial class Form1 : Form
     {
@@ -39,7 +39,7 @@ namespace OnTapLTTQ
 
         private void button6_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("D�i qu�");
+            MessageBox.Show("Dài quá");
         }
 
         private void button7_Click(object sender, EventArgs e)
@@ -92,7 +92,58 @@ namespace OnTapLTTQ
 
         private void button15_Click(object sender, EventArgs e)
         {
+            MessageBox.Show("Dài quá");
+        }
 
+        private void button16_Click(object sender, EventArgs e)
+        {
+            Lab5_Bai1 open = new Lab5_Bai1();
+            open.Show();
+        }
+
+        private void button17_Click(object sender, EventArgs e)
+        {
+            Lab5_Bai2 open = new Lab5_Bai2();
+            open.Show();
+        }
+
+        private void button18_Click(object sender, EventArgs e)
+        {
+            Lab5_Bai3 open = new Lab5_Bai3();
+            open.Show();
+        }
+
+        private void button19_Click(object sender, EventArgs e)
+        {
+            Lab5_Bai4 open = new Lab5_Bai4();
+            open.Show();
+        }
+
+        private void button20_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Dễ quá");
+        }
+
+        private void button21_Click(object sender, EventArgs e)
+        {
+            Lab5_Bai6 open = new Lab5_Bai6();
+            open.Show();
+        }
+
+        private void button22_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Dễ quá");
+        }
+
+        private void button23_Click(object sender, EventArgs e)
+        {
+            Lab5_Bai8 open = new Lab5_Bai8();
+            open.Show();
+        }
+
+        private void button24_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Dễ quá");
         }
     }
 }
