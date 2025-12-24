@@ -284,6 +284,7 @@
             button26.TabIndex = 10;
             button26.Text = "Bài 11";
             button26.UseVisualStyleBackColor = true;
+            button26.Click += button26_Click;
             // 
             // button25
             // 
@@ -293,6 +294,7 @@
             button25.TabIndex = 9;
             button25.Text = "Bài 10";
             button25.UseVisualStyleBackColor = true;
+            button25.Click += button25_Click;
             // 
             // button24
             // 

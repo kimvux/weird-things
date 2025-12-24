@@ -145,5 +145,15 @@
         {
             MessageBox.Show("Dễ quá");
         }
+
+        private void button25_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button26_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
